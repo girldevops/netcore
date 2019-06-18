@@ -34,7 +34,7 @@
         "containers": [
           {
             "name": "kubeaspnetapp",
-            "image": "kubeaspnetapp:v1",
+            "image": "hajarben/kubeaspnetapp:v1",
             "ports": [
               {
                 "containerPort": 80,
